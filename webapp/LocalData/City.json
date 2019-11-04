@@ -1,0 +1,20 @@
+{
+	"City":[
+		{
+			"CityName" : "Mumbai",
+			"Percentage" : "60"
+		},
+		{
+			"CityName" : "Delhi",
+			"Percentage" : "40"
+		},
+		{
+			"CityName" : "Pune",
+			"Percentage" : "30"
+		},
+		{
+			"CityName" : "Chennai",
+			"Percentage" : "20"
+		}
+		]
+}
